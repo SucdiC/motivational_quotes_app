@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/motivational_quotes_app/static/css/main.e837fc36.chunk.css",
+    "main.js": "/motivational_quotes_app/static/js/main.099c5172.chunk.js",
+    "main.js.map": "/motivational_quotes_app/static/js/main.099c5172.chunk.js.map",
+    "runtime-main.js": "/motivational_quotes_app/static/js/runtime-main.ed4afacd.js",
+    "runtime-main.js.map": "/motivational_quotes_app/static/js/runtime-main.ed4afacd.js.map",
+    "static/css/2.99fb6498.chunk.css": "/motivational_quotes_app/static/css/2.99fb6498.chunk.css",
+    "static/js/2.c4a7973a.chunk.js": "/motivational_quotes_app/static/js/2.c4a7973a.chunk.js",
+    "static/js/2.c4a7973a.chunk.js.map": "/motivational_quotes_app/static/js/2.c4a7973a.chunk.js.map",
+    "index.html": "/motivational_quotes_app/index.html",
+    "precache-manifest.b5e11ffbc886d27ad56f5209042831cb.js": "/motivational_quotes_app/precache-manifest.b5e11ffbc886d27ad56f5209042831cb.js",
+    "service-worker.js": "/motivational_quotes_app/service-worker.js",
+    "static/css/2.99fb6498.chunk.css.map": "/motivational_quotes_app/static/css/2.99fb6498.chunk.css.map",
+    "static/css/main.e837fc36.chunk.css.map": "/motivational_quotes_app/static/css/main.e837fc36.chunk.css.map",
+    "static/js/2.c4a7973a.chunk.js.LICENSE.txt": "/motivational_quotes_app/static/js/2.c4a7973a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed4afacd.js",
+    "static/css/2.99fb6498.chunk.css",
+    "static/js/2.c4a7973a.chunk.js",
+    "static/css/main.e837fc36.chunk.css",
+    "static/js/main.099c5172.chunk.js"
+  ]
+}
